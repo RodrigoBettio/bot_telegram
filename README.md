@@ -1,2 +1,7 @@
 ## Primeira Tentativa de Criação de Bot no Telegram
-Ainda não hospedei em nenhum lugar
+Instalar doenv e o telebot com: 
+
+```pip install pyTelegramBotAPI python-dotenv```
+
+Colocar o .env na raíz do projeto e colocar o token do bot
+

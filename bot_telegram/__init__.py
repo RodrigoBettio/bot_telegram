@@ -1,7 +1,7 @@
 import telebot
 import os
 from dotenv import load_dotenv
-load_dotenv(dotenv_path='../../.env') 
+load_dotenv()
 
 CHAVE_API = os.getenv("CHAVE_API")
 
